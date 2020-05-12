@@ -14,7 +14,7 @@ void create(queue *q,int size)
    q->front=q->rare=-1;
    q->Q=new int[q->size] ;
 }
- 
+ NVVSDSRJBNOILFBKRKLFBD
 void display(queue *q)
 {
 	for(int i=q->front+1;i<=q->rare;i++)
