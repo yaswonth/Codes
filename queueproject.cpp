@@ -20,6 +20,7 @@ void display(queue *q)
 	for(int i=q->front+1;i<=q->rare;i++)
 	{
 		cout<<q->Q[i]<<"  ";
+                cout<<"next";
 	}
  } 
 
