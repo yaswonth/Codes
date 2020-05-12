@@ -7,7 +7,7 @@ struct queue
 	int *Q;
 	
 };
-
+sgwuqhifjeokwrpetynorjbieuvdacsgxbhksldfbg;fodisuygtshdfopg;bglvkdsjhagZG'B;LSKAJH
 void create(queue *q,int size)
 {
   q->size=size;
